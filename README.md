@@ -1,2 +1,2 @@
 # security_function
-Secure for SQL İnjection 
+Secure for SQL Injection 
